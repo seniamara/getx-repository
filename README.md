@@ -214,4 +214,3 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 - Substitua `seu-usuario` na URL do repositório pelo nome de usuário do GitHub.
 - Atualize a seção de licença, caso não seja MIT.
 
-Se precisar de mais personalizações, é só pedir! 😊
