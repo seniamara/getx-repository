@@ -1,4 +1,3 @@
-Aqui está um exemplo de **README.md** para o projeto. Ele segue um formato profissional e fácil de entender para quem acessar o repositório no GitHub.
 
 ```markdown
 # GitHub Users App
