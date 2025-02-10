@@ -6,7 +6,7 @@ Este projeto é um aplicativo Flutter que utiliza a API pública do GitHub para 
 
 ---
 
-## ✨ Funcionalidades
+ ✨ Funcionalidades
 
 - Exibir uma lista de usuários do GitHub.
 - Mostrar informações como:
@@ -18,17 +18,17 @@ Este projeto é um aplicativo Flutter que utiliza a API pública do GitHub para 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+ 🚀 Tecnologias Utilizadas
 
-- **Flutter**: Framework principal para desenvolvimento do aplicativo.
-- **Dio**: Biblioteca para realizar requisições HTTP.
-- **GetX**: Gerenciamento de estado e injeção de dependências.
+- Flutter: Framework principal para desenvolvimento do aplicativo.
+- Dio: Biblioteca para realizar requisições HTTP.
+- GetX: Gerenciamento de estado e injeção de dependências.
 
 ---
 
-## 🛠 Estrutura do Código
+« 🛠 Estrutura do Código
 
-### 📁 Model
+📁 Model
 
 O modelo `GithubUsers` é responsável por mapear os dados recebidos da API.
 
@@ -60,7 +60,7 @@ class GithubUsers {
 }
 ```
 
-### 📁 Repository
+# 📁 Repository
 
 O repositório `GithubRepository` lida com as requisições à API do GitHub e retorna os dados no formato esperado pelo modelo.
 
